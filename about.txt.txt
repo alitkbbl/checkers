@@ -1,0 +1,11 @@
+I created a game to further my learning of the C language.
+It's a mini project called Checkers.
+It's a fun and famous game.
+
+
+
+یک بازی برای یاد گیری بیشتر زبان سی زدم
+یک مینی پروژه به ایم چکرز
+یک بازی جالب که معروف هم هست.
+
+
